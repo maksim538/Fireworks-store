@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+.icon{
+    text-decoration:none;
+    color:rgb(54, 0, 201) ;
+}
+main{
+background-color:DarkTurquoise	 ; 
+}
+header{
+    background-color:LawnGreen ;
+}
+h1{
+    color: rgb(32, 0, 146);
+}
+footer{
+background-color: darkslateblue;
+color: rgb(241, 16, 16);
+}
+nav{
+background-color: lawngreen;
+
+}
+a{
+color:rgb(255, 0, 0);
+}
+option {
+    color: rgb(255, 0, 0);
+    
+}
